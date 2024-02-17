@@ -1,3 +1,4 @@
+
 @import url('./styles/header.css');
 @import url('./styles/sectionSobre.css');
 @import url('./styles/sectionServiços.css');
@@ -14,10 +15,14 @@
     height: 100vh;
   
  }
-
-
- header {
+ 
+header {
+   display: flex;
+   justify-content: center; /* Centraliza o conteúdo horizontalmente */
+   align-items: center; /* Centraliza o conteúdo verticalmente */
    background-image: url('../IMG/banner\ 2.png');
+   background-size: cover; /* Redimensiona a imagem para cobrir todo o cabeçalho */
+   background-repeat: no-repeat; /* Evita repetição da imagem */
    width: 100%;
    height: 100vh;
 }
