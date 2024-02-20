@@ -11,3 +11,7 @@
 .section__contatos{
     margin-bottom: 5rem;
 }
+
+.icon__whpp {
+    font-size: 2.5rem !important; /* Adicionando !important para garantir que esta regra seja priorizada */
+}

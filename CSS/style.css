@@ -17,12 +17,7 @@
  }
  
 header {
-   display: flex;
-   justify-content: center; /* Centraliza o conteúdo horizontalmente */
-   align-items: center; /* Centraliza o conteúdo verticalmente */
-   background-image: url('../IMG/banner\ 2.png');
-   background-size: cover; /* Redimensiona a imagem para cobrir todo o cabeçalho */
-   background-repeat: no-repeat; /* Evita repetição da imagem */
+   background-image: url('../IMG/Banner_resized.jpg');
    width: 100%;
-   height: 100vh;
+   height: 120vh;
 }
