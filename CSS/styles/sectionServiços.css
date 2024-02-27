@@ -21,3 +21,9 @@
     background-color: var(--azul);
     border: none;
 }
+
+.botao__card {
+    display: block;
+    margin: 0 auto;
+    text-align: center;
+}

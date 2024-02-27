@@ -36,3 +36,7 @@
 .botao__nav:hover::before {
     width: 100%;
 }
+
+.botao-menu {
+    border-color: red;
+}
